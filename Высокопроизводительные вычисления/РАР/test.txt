@@ -1,0 +1,42 @@
+# Список городов (каждый город на новой строке)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+
+# Список дорог (каждая дорога на новой строке)
+A B
+B C
+C D
+A D
+E F
+F G
+G H
+H I
+I J
+K L
+L M
+M N
+O P
+P Q
+Q R
+R S
+S T
+B H
+C L
